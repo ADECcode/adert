@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="longitude">LONGITUDE</string>
+    <string name="latitude">LATITUDE</string>
+    <string name="title_activity_sign_in">app</string>
+    <string name="event_description">event</string>
+    <string name="save_description">save</string>
+</resources>
